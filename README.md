@@ -33,7 +33,7 @@ query{
 3. Create User with mutation operation
 
 mutation{
-  createUser(firstName:"Deepak",lastName:"Chaudhari",email:"deepak@deepak.com",password:"password"){
+  createUser(firstName:"Deepak",lastName:"Chaudhari",email:"deepak@deepak.com",password:"12345"){
     id
     firstName
     lastName
